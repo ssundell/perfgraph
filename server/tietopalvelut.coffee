@@ -21,11 +21,8 @@ testCases =
   '01-eavo-kunta-md.xml': { id: 'eavo-kunta', api: 'eraajo' }
   '01-ealh-muutos-101-md.xml': { id: 'ealh-muutos-101', api: 'eraajo-muutos' }
   '01-ealh-muutos-102-md.xml': { id: 'ealh-muutos-102', api: 'eraajo-muutos' }
-  '01-ealh-muutos-103-md.xml': { id: 'ealh-muutos-103', api: 'eraajo-muutos' }
-  '01-ealh-muutos-104-md.xml': { id: 'ealh-muutos-104', api: 'eraajo-muutos' }
-  '01-ealh-muutos-105-md.xml': { id: 'ealh-muutos-105', api: 'eraajo-muutos' }
-  '01-eara-muutos-301-md.xml': { id: 'eara-muutos-301', api: 'eraajo-muutos' }
-  '01-eara-muutos-302-md.xml': { id: 'eara-muutos-302', api: 'eraajo-muutos' }
+  '01-ealh-muutos-301-md.xml': { id: 'ealh-muutos-301', api: 'eraajo-muutos' }
+  '01-ealh-muutos-302-md.xml': { id: 'ealh-muutos-302', api: 'eraajo-muutos' }
   '01-eavo-muutos-112-md.xml': { id: 'eavo-muutos-112', api: 'eraajo-muutos' }
   '01-eavo-muutos-113-md.xml': { id: 'eavo-muutos-113', api: 'eraajo-muutos' }
   '02-kypt-kunta-ki-md.xml': { id: 'kypt-kunta-ki', api: 'kyselypalvelu-krkohde' }
@@ -43,8 +40,12 @@ testCases =
   '02-kypt-muutos-208-md.xml': { id: 'kypt-muutos-208', api: 'kyselypalvelu-muutos' }
   '02-kypt-muutos-209-md.xml': { id: 'kypt-muutos-209', api: 'kyselypalvelu-muutos' }
   '02-kypt-muutos-210-md.xml': { id: 'kypt-muutos-210', api: 'kyselypalvelu-muutos' }
-  '02-kypt-muutos-301-md.xml': { id: 'kypt-muutos-301', api: 'kyselypalvelu-muutos' }
-  '02-kypt-muutos-302-md.xml': { id: 'kypt-muutos-302', api: 'kyselypalvelu-muutos' }
+  '03-kypt-muutos-101-md.xml': { id: 'kypt-muutos-101', api: 'kyselypalvelu-lh-muutos' }
+  '03-kypt-muutos-102-md.xml': { id: 'kypt-muutos-102', api: 'kyselypalvelu-lh-muutos' }
+  '03-kypt-muutos-112-md.xml': { id: 'kypt-muutos-112', api: 'kyselypalvelu-lh-muutos' }
+  '03-kypt-muutos-113-md.xml': { id: 'kypt-muutos-113', api: 'kyselypalvelu-lh-muutos' }
+  '03-kypt-muutos-301-md.xml': { id: 'kypt-muutos-301', api: 'kyselypalvelu-lh-muutos' }
+  '03-kypt-muutos-302-md.xml': { id: 'kypt-muutos-302', api: 'kyselypalvelu-lh-muutos' }
   '05-kyom-nimi-md.xml': { id: 'kyom-nimi', api: 'kyselypalvelu' }
   '05-kyom-tunnus-md.xml': { id: 'kyom-tunnus', api: 'kyselypalvelu' }
 
